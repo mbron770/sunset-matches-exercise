@@ -1,0 +1,52 @@
+{
+  "choices": [
+    {
+      "id": "a8d9",
+      "venue": [
+        "Ocean's Delight"
+      ]
+    },
+    {
+      "id": "3bf7",
+      "venue": [
+        "Mountain Retreat"
+      ]
+    },
+    {
+      "id": "eb92",
+      "venue": [
+        "Urban Eats"
+      ]
+    },
+    {
+      "id": "0ee3",
+      "venue": [
+        "Garden Bistro"
+      ]
+    },
+    {
+      "id": "8166",
+      "venue": [
+        "The Italian Table"
+      ]
+    },
+    {
+      "id": "a733",
+      "venue": [
+        "The Twisted Vine"
+      ]
+    },
+    {
+      "id": "9dc8",
+      "venue": [
+        "Blue Moon Tavern"
+      ]
+    },
+    {
+      "id": "e9f6",
+      "venue": [
+        "Chuckletown Club"
+      ]
+    }
+  ]
+}
